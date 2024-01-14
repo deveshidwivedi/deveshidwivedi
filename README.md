@@ -8,12 +8,11 @@ const deveshi = {
   education: sophomore at Indian Institute of Information Technology, Jabalpur
   code: [Javascript, Typescript, Python, Java, C, C++],
   technologies: {
-  frontEnd: [React, HTML, CSS, Bootstrap, JavaScript, TypeScript],
-  backEnd: [Node.js, Express, PHP, Java],
-  database: [MongoDB, SQL],
-  other: [Git, GitHub, Markdown],
-  },
-
+    frontEnd: [React, TypeScript, Tailwind, HTML, CSS, Bootstrap,],
+    backEnd: [Node.js, Express.js, PHP, Java],
+    database: [MongoDB, SQL],
+    other: [Git, GitHub, Markdown],
+    },
   I like to: [read, swim, eat pizza]
 }
 ```
