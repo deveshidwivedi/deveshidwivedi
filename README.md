@@ -9,7 +9,7 @@ const deveshi = {
     Jabalpur
   code: [Javascript, Typescript, Python, Java, C, C++],
   technologies: {
-    frontEnd: [React, TypeScript, Tailwind, HTML, CSS, Bootstrap,],
+    frontEnd: [React, TypeScript, Tailwind, HTML, CSS, Bootstrap],
     backEnd: [Node.js, Express.js, PHP, Java],
     database: [MongoDB, SQL],
     other: [Git, GitHub, Markdown],
