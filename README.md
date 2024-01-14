@@ -6,7 +6,7 @@ const deveshi = {
   pronouns: "she" | "her",
   education: sophomore at Indian Institute of Information Technology, Jabalpur
   code: [Javascript, Typescript, Python, Java, C, C++],
-  talks about: 
+  I like to: [read, swim, eat pizza]
 }
 ```
 
