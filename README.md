@@ -10,9 +10,10 @@ const deveshi = {
   technologies: {
     frontEnd: ["React", "TypeScript", "Vue.js", "Next.js", "Tailwind", "HTML", "CSS", "Bootstrap"],
     backEnd: ["Node.js", "Express.js", "PHP", "Java"],
-    database: ["MongoDB", "SQL", "MySQL", "Firebase"],
-    other: ["Git", "GitHub", "Markdown", "Docker", "Jest", "Pytest"],
+    database: ["MongoDB", "MySQL", "Firebase", "Redis"],
+    other: ["Git", "GitHub", "Markdown", "Docker", "GraphQL", "Solidity", "VSCode", "Web3.js"],
   },
+  testingFrameworks: ["Jest", "Pytest"],
   I like to: [eat pizza]
 }
 ```
