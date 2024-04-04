@@ -8,7 +8,7 @@ const deveshi = {
   education: "sophomore at Indian Institute of Information Technology, Jabalpur",
   code: ["Javascript", "Typescript", "Python", "Java", "C", "C++", "Perl", "PHP", "Shell scripting"],
   technologies: {
-    frontEnd: ["React", "TypeScript", "Vue.js", "Next.js", "Tailwind", "HTML", "CSS", "Bootstrap"],
+    frontEnd: ["React", "Vue.js", "Next.js", "Tailwind", "HTML", "CSS", "Bootstrap"],
     backEnd: ["Node.js", "Express.js", "PHP", "Java"],
     database: ["MongoDB", "MySQL", "Firebase", "Redis"],
     other: ["Git", "GitHub", "Markdown", "Docker", "GraphQL", "Solidity", "VSCode", "Web3.js"],
