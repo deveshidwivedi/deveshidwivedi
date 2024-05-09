@@ -21,3 +21,5 @@ const deveshi = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deveshidwivedi/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DeveshiDwivedi)
 <a href="mailto:deveshigurgaon@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+[![Visits Badge](https://badges.pufler.dev/visits/deveshidwivedi/deveshidwivedi)](https://github.com/deveshidwivedi)
