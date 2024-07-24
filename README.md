@@ -5,7 +5,7 @@
 ```javascript
 const deveshi = {
   pronouns: "she" | "her",
-  education: "sophomore at Indian Institute of Information Technology, Jabalpur",
+  education: "pre-final year student at Indian Institute of Information Technology, Jabalpur",
   code: ["Javascript", "Typescript", "Python", "Java", "C", "C++", "Perl", "PHP", "Shell scripting"],
   technologies: {
     frontEnd: ["React", "Vue.js", "Next.js", "Tailwind", "HTML", "CSS", "Bootstrap"],
