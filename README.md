@@ -5,15 +5,14 @@
 ```javascript
 const deveshi = {
   pronouns: "she" | "her",
-  education: "pre-final year student at Indian Institute of Information Technology, Jabalpur",
+  education: "Indian Institute of Information Technology, Jabalpur",
   code: ["Javascript", "Typescript", "Python", "Java", "C", "C++", "Go", "Perl", "Shell scripting"],
   technologies: {
-    frontEnd: ["React", "Vue.js", "Next.js", "Tailwind", "HTML", "CSS", "Bootstrap", "Angular"],
-    backEnd: ["Node.js", "Express.js", "PHP", "Java", "Django", "Flask", "Go", "FastAPI"],
-    database: ["MongoDB", "MySQL", "Firebase", "Redis", "Elasticsearch", "Neo4j"],
-    other: ["Git", "GitHub", "Markdown", "Docker", "GraphQL", "VSCode", "Postman", "OpenAPI", "Swagger"],
+    frontEnd: ["React", "Vue.js", "Next.js", "Tailwind", "Angular", "PrimeVue"],
+    backEnd: ["Node.js", "Express.js", "Java", "Django", "Flask", "Go", "FastAPI"],
+    database: ["MongoDB", "MySQL", "Firebase", "Redis", "Elasticsearch", "Neo4j", "PostgreSQL"],
   },
-  I like to: [eat pizza]
+  I like to: [eat salad]
 }
 ```
 ### Get in touch:)
